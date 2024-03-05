@@ -34,7 +34,7 @@ To explore the dashboard, follow these steps:
 #### Consumer Segment
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Segment%20wise%20sales%20-%20Consumer.png)
 
-#### Corporate Segmet
+#### Corporate Segment
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Segment%20wise%20sales%20-%20Corporate.png)
 
 #### Home Office Segment
@@ -45,13 +45,13 @@ To explore the dashboard, follow these steps:
 #### Central Region
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Region%20wise%20sales%20-%20Central.png)
 
-#### East Region
+#### Eastern Region
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Region%20wise%20sales%20-%20East.png)
 
-#### South Region
+#### Southern Region
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Region%20wise%20sales%20-%20South.png)
 
-#### West Region
+#### Western Region
 ![View](https://github.com/VaibhavGit27/Super-Store-Sales-Dashboard/blob/main/Visualizations/Region%20wise%20sales%20-%20West.png)
 
 ### Sum of Profit by Month and Year
